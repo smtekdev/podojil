@@ -14149,7 +14149,7 @@ blockquote cite::before {
   font-size: 18px;
   padding: 25px 60px 25px 25px;
   color: var(--tj-color-heading-primary);
-  font-family: var(--tj-ff-heading);
+  font-family:libre;
   font-weight: var(--tj-fw-sbold);
   position: relative;
   border: 1px solid transparent;
